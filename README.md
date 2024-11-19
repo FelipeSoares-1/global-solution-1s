@@ -123,6 +123,9 @@ Banco de dados PostgreSQL configurado.
 
 * 19/10/2024
     * Entrega final do projeto com análise completa.
+    * Teste de Banco de dados PostgreSQL
+    * Teste de configuração do Banco de dados PostgreSQL
+
 
 ## 📋 Licença
 
