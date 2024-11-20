@@ -117,7 +117,7 @@ Para executar o código, siga os passos abaixo:
 1. **Pré-requisitos**: Certifique-se de ter o R e as bibliotecas `psycopg2`, `pandas`, `matplotlib` e `dash` (opcional) instaladas.
 Banco de dados PostgreSQL configurado.
 2. **Instalação** e **Execução**:
-   - Seguir Guia de Instalação e Execução em Document.
+   - Seguir Guia de Instalação e Execução [Guia de Instalação e Execução](./document/documentação.md) em Document.
 
 ## 🗃 Histórico
 
